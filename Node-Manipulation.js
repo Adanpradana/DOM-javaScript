@@ -15,7 +15,7 @@ sectionA.appendChild(newP);
 const newLi = document.createElement("li");
 const newTextLi = document.createTextNode("Item 1,5");
 
-newLi.appendChild(newTextLi); // tolong buatka newTextLi di dalam newLi
+newLi.appendChild(newTextLi); // tolong buatkan newTextLi di dalam newLi
 
 const ul = document.querySelector("section#b ul");
 const li2 = ul.querySelector("li:nth-child(2)");

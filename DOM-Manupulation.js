@@ -1,5 +1,5 @@
 // element.innerHTML
-// const judul = document.getElementById("juduli");
+// const judul = document.getElementById("judul");
 // judul.innerHTML = "ADANPRADANA";
 
 // manipulation DOM per section
